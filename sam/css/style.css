@@ -1,0 +1,17 @@
+h1{
+    color: blue;
+}
+.sam{
+    width: 500px;
+    min-height: 400px;
+    background-color: rgb(109, 109, 220);
+}
+a{
+    text-decoration: none;
+    font-size: 40px;
+    color: white;
+    background-color: orange;
+    border-radius: 30px;
+    border: 2px solid rgba(217, 135, 41, 0.646);
+    padding: 10px 20px;
+}
